@@ -1,0 +1,11 @@
+{
+  "start_text": "Иди нахуй",
+  "required_channels": [
+    {
+      "chat_id": "@barboskins_minecraft",
+      "title": "@barboskins_minecraft",
+      "url": "https://t.me/barboskins_minecraft"
+    }
+  ],
+  "destination_channel": null
+}
